@@ -72,7 +72,7 @@ Due to resource constraints, we adapted their approach with lighter models and c
   - **Confusion matrix for the image classification part:**
     ![Confusion Matrix](./Screenshots/matrix_for_classify.png)
   - **Classification report for the image classification part:**
-    ![Confusion Matrix](./Screenshots/classification_report_for_classify.png)
+    ![Confusion Matrix](./Screenshots/Classified.png)
   - **Classification report for the Lesion detection part:**
     
     ![Confusion Matrix](./Screenshots/detection.png)
