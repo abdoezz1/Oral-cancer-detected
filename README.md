@@ -67,3 +67,12 @@ Due to resource constraints, we adapted their approach with lighter models and c
   - **Clean annotations**
 
   - **Careful tuning**
+
+🔹**Screenshots of the results:**
+  - **Confusion matrix for the image classification part:**
+    ![Confusion Matrix](./Screenshots/matrix_for_classify.png)
+  - **Classification report for the image classification part:**
+    ![Confusion Matrix](./Screenshots/classification_report_for_classify.png)
+  - **Classification report for the Lesion detection part:**
+    
+    ![Confusion Matrix](./Screenshots/detection.png)
